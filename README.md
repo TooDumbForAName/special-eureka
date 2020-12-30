@@ -6,4 +6,4 @@ To run on Linux/Unix, invoke with **./<filename>**. The proper permissions shoul
 
 **dos-fails-unix-fails.bat** -- This should fail to work properly on both DOS and Linux, because of improper (Classic Mac) line endings.
 
-**dos-fails-unix-works.bat** -- This should fail to work on DOS, but work on Linux. To be honest, i had to go out of my way to make this, so it's unlikely to be encountered normally, and might not work on some Unix systems, either, for all I know.
+**dos-fails-unix-works.bat** -- This should fail to work on DOS, but work on Linux. To be honest, I had to go out of my way to make this, so it's unlikely to be encountered normally, and might not work on some Unix systems, either, for all I know.
